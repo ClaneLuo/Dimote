@@ -7,7 +7,6 @@
     - [大陆志](sds/dlz/index.md)
     - [见闻录](sds/jwl/index.md)
     - [人物志](sds/rwz/index.md)
-    - [剧情簿](jqb/index.md)
 
 ## 主剧情线大纲（序言）
 
