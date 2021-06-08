@@ -1,5 +1,5 @@
 # 异世奇缘 / Dimote
-**《异世奇缘》** 开发文档 / DimoteDevelopment documentation of ***Dimote***
+《异世奇缘》 开发文档 / Dimote Development
 
 ## 主剧情线大纲（序言）
 
