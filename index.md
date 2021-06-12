@@ -53,3 +53,5 @@
 [QQ:2940119626 QID:goldsheep3](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0)
 
 # Dimote
+
+[查看开发随笔](note.md)
