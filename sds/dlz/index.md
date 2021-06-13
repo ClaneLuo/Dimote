@@ -14,19 +14,21 @@
 
 ## 目录
 
-[政体](zhengti.md/)
+[政体](zhengti.md)
 
-[神说](shenshuo.md/)
+[神说](shenshuo.md)
 
-[银狼](yinlang.md/)
+[银狼](yinlang.md)
 
-[羽晶](yujing.md/)
+[羽晶](yujing.md)
 
-[语言](yuyan.md/)
+[语言](yuyan.md)
 
-[弗莱网](fulaiwang.md/)
+[弗莱网](fulaiwang.md)
 
-[混沌](hundun.md/)
+[混沌](hundun.md)
+
+[生命](shengming.md)
 
 # Dimote
 [返回开发文档主页](../../index.md)
