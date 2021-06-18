@@ -30,6 +30,8 @@
 
 [生命](shengming.md)
 
+[星梦联合](xingmenglianhe.md)
+
 # Dimote
 [返回开发文档主页](../../index.md)
 

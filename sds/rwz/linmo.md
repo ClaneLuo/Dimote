@@ -94,4 +94,4 @@
 
 # Dimote
 
-[返回诸神志主页](index.md/)
+[返回人物志主页](index.md/)
