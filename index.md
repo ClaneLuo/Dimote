@@ -8,6 +8,7 @@
     - [见闻录](sds/jwl/index.md)
     - [人物志](sds/rwz/index.md)
         - [诸神志](sds/rwz/zsz/index.md)
+- [开发随笔](note.md)
 
 ## 主剧情线大纲（序言）
 
@@ -55,4 +56,3 @@
 
 # Dimote
 
-[查看开发随笔](note.md)
