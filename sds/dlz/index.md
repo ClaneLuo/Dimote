@@ -20,7 +20,7 @@
 | [语言](yuyan.md)              | 关于语言。                   | [混沌](hundun.md)    | 关于敌人。                       |
 | [星梦联合](xingmenglianhe.md) | 关于冒险者和人才的管理中心。 | [羽晶](yujing.md)    | 关于货币。                       |
 | [弗莱网](fulaiwang.md)        | 关于万能虚拟平台。           | [生命](shengming.md) | 关于生命。                       |
-| [政体](zhengti.md)            | 关于六国、神档所与六国协会。 |                      |                                  |
+| [政体](zhengti.md)            | 关于六国、神档所与六国协会。 | [战斗](zhandou.md)   | 关于战斗方式。                   |
 
 # Dimote
 [https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > 大陆志主页
