@@ -26,5 +26,5 @@
 
 # Dimote
 
-[返回开发文档主页](../../index.md)
+[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > 人物志主页
 

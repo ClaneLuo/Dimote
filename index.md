@@ -1,6 +1,10 @@
-# 异世奇缘 开发文档
+# 《异世奇缘》
 
-## 通过下方链接查看详情
+三金羊Sheep的四年计划《异世奇缘》（*Dimote*）目前所包含的所有内容。
+
+## 文字内容目录
+
+> 点击下方蓝字即可查看。
 
 - 神档所出版物
     - [编年史](sds/bns/index.md)
@@ -8,7 +12,7 @@
     - [见闻录](sds/jwl/index.md)
     - [人物志](sds/rwz/index.md)
         - [诸神志](sds/rwz/zsz/index.md)
-- [开发随笔](note.md)
+- [开发笔记](note.md)
 
 ## 主剧情线大纲（序言）
 
@@ -52,7 +56,8 @@
 
 三金羊Sheep (点击下方QQ号码添加好友)
 
-[QQ:2940119626 QID:goldsheep3](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0)
+[QQ:2940119626  QID:goldsheep3](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0)
 
 # Dimote
 
+[https://dimote.top/](https://dimote.top/) > 主页

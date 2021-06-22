@@ -14,24 +14,14 @@
 
 ## 目录
 
-[政体](zhengti.md)
-
-[神说](shenshuo.md)
-
-[银狼](yinlang.md)
-
-[羽晶](yujing.md)
-
-[语言](yuyan.md)
-
-[弗莱网](fulaiwang.md)
-
-[混沌](hundun.md)
-
-[生命](shengming.md)
-
-[星梦联合](xingmenglianhe.md)
+| 内容                          | 备注                         | 内容                 | 备注                             |
+| ----------------------------- | ---------------------------- | -------------------- | -------------------------------- |
+| [神说](shenshuo.md)           | 关于神和神格力。             | [银狼](yinlang.md)   | 关于曾经不属于弗莱的物种的信息。 |
+| [语言](yuyan.md)              | 关于语言。                   | [混沌](hundun.md)    | 关于敌人。                       |
+| [星梦联合](xingmenglianhe.md) | 关于冒险者和人才的管理中心。 | [羽晶](yujing.md)    | 关于货币。                       |
+| [弗莱网](fulaiwang.md)        | 关于万能虚拟平台。           | [生命](shengming.md) | 关于生命。                       |
+| [政体](zhengti.md)            | 关于六国、神档所与六国协会。 |                      |                                  |
 
 # Dimote
-[返回开发文档主页](../../index.md)
+[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > 大陆志主页
 

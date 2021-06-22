@@ -53,4 +53,4 @@
 
 # Dimote
 
-[返回大陆志主页](index.md/)
+[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > [大陆志主页](index.md) > 生命

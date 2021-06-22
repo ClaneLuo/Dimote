@@ -29,4 +29,4 @@
 
 # Dimote
 
-[返回剧情簿主页](../../../index.md)
+[https://dimote.top/](https://dimote.top/) > [主页](../../../index.md) > [编年史主页](../index.md) > 后史 > 序章
