@@ -21,8 +21,8 @@
     - 林墨
     - 
 - [诸神志](zsz/index.md)
-    - 启示之神 / 洛青羽
-    - 冒险之神 / 瑞斯克
+    - [启示之神 / 洛青羽](zsz/luoqingyu.md)
+    - [冒险之神 / 瑞斯克](zsz/ruisike.md)
 
 # Dimote
 
