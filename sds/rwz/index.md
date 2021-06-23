@@ -17,12 +17,17 @@
 ## 目录
 
 - 人物志
-    - 洛青羽
-    - 林墨
+    - [神档所 / 洛青羽](luoqingyu.md)
+    - 
     - 
 - [诸神志](zsz/index.md)
     - [启示之神 / 洛青羽](zsz/luoqingyu.md)
     - [冒险之神 / 瑞斯克](zsz/ruisike.md)
+
+## 开发中目录
+
+- [林墨](linmo.md)
+- [秋烨](qiuye.md)
 
 # Dimote
 
