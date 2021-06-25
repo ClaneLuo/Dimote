@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [弗莱网](fulaiwang.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页]() >> [弗莱网](fulaiwang.md)
 
 # 大陆志 / 弗莱网
 
