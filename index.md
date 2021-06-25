@@ -40,22 +40,6 @@
 
 ## 《异世奇缘》开发组
 
-总策划：三金羊Sheep
+总策划：[三金羊Sheep (QQ:2940119626,QID:goldsheep3)](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0) ←点击添加好友
 
-文案：三金羊Sheep
-
-美术：三尾
-
-声效：
-
-配音：
-
-代码：
-
-其他参与者：北冥Ming
-
-### 联系我们
-
-三金羊Sheep (点击下方QQ号码添加好友)
-
-[QQ:2940119626  QID:goldsheep3](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0)
+开发组：「Dimote's Development Group」群号47\*\*\*\*\*28

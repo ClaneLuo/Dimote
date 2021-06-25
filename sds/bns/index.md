@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../index.md) >> [编年史主页](index.md)
+
 # 编年史
 
 > *编年史由神档所出版。如有错误，请私信神档所总负责人洛青羽，联系方式：Gold_Sheep_3@163.com。*
@@ -27,7 +29,3 @@
 ### 后史 / 传记
 
 暂无。
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > 编年史主页

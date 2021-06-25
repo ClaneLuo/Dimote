@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [混沌](hundun.md)
+
 # 大陆志 / 混沌
 
 > *若是弗莱没有混沌，绝对不会有如今的生机*。
@@ -25,7 +27,3 @@
 ### 混沌属性
 
 混沌空间内的环境会有异常，这种异常称为混沌属性。
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > [大陆志主页](index.md) > 混沌
