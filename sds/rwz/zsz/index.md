@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../index.md) >> [人物志主页](../index.md) >> [诸神志主页](index.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [人物志主页](../) >> [诸神志主页](index.md)
 
 # 诸神志
 
@@ -19,4 +19,3 @@
 - [启示之神 / 洛青羽](luoqingyu.md/)
     - 人物志词条：[神档所 / 洛青羽](../luoqingyu.md)
 - [冒险之神 / 瑞斯克](ruisike.md)
-

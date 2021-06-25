@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../index.md) >> [人物志主页](index.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../) >> [人物志主页]()
 
 # 人物志
 
@@ -20,8 +20,8 @@
 
 - 人物志
     - [神档所 / 洛青羽](luoqingyu.md)
-    - 
-    - 
+    -
+    -
 - [诸神志](zsz/index.md)
     - [启示之神 / 洛青羽](zsz/luoqingyu.md)
     - [冒险之神 / 瑞斯克](zsz/ruisike.md)
@@ -30,4 +30,3 @@
 
 - [林墨](linmo.md)
 - [秋烨](qiuye.md)
-

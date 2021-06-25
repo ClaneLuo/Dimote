@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页](index.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页]()
 
 # 大陆志
 

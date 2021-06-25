@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [战斗](zhandou.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页]() >> [战斗](zhandou.md)
 
 # 大陆志 / 战斗
 
