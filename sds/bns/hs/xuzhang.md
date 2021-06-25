@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [编年史主页](../) >> 后史 >> [序章](xuzhang.md)
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [编年史主页](../) >> <u><font color="#4080C0">后史</font></u> >> [序章](xuzhang.md)
 
 # 序章 / 未知的前方
 
