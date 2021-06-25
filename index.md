@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](index.md)
+
 # 《异世奇缘》
 
 三金羊Sheep的四年计划《异世奇缘》（*Dimote*）目前所包含的所有内容。
@@ -57,7 +59,3 @@
 三金羊Sheep (点击下方QQ号码添加好友)
 
 [QQ:2940119626  QID:goldsheep3](https://qm.qq.com/cgi-bin/qm/qr?k=UTi6fzzdpGTAkUEAqNuLN4Z81w6UEL0T&noverify=0)
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > 主页

@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../index.md) >> [人物志主页](index.md) >> [瑞斯克](ruisike.md)
+
 # 泉星 / 瑞斯克
 
 > *很值得托付背后的人呢。有着足够的力量，又值得相信。*
@@ -99,7 +101,3 @@
 ## 资料附注
 
 主要由「三金羊Sheep」撰写；外貌基于「北冥Ming」的原稿撰写。
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > [人物志主页](index.md) > 瑞斯克

@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../index.md) >> [人物志主页](index.md) >> [林墨](linmo.md)
+
 # 泉星 / 林墨
 
 > *林墨他……承受了太多。*
@@ -92,7 +94,3 @@
 ## 资料附注
 
 全文由「三金羊Sheep」撰写。
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > [人物志主页](index.md) > 林墨

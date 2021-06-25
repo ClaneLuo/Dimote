@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../index.md) >> [人物志主页](index.md)
+
 # 人物志
 
 > *人物志由神档所出版。如有错误，请私信神档所总负责人洛青羽，联系方式：Gold_Sheep_3@163.com。*
@@ -28,8 +30,4 @@
 
 - [林墨](linmo.md)
 - [秋烨](qiuye.md)
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > 人物志主页
 

@@ -1,3 +1,5 @@
+<u><font color="#4080C0">Dimote</font></u> >> [主页](../../index.md) >> [人物志主页](index.md) >> [洛青羽](luoqingyu.md)
+
 # 神档所 / 洛青羽
 
 > *我从来没藏着自己的神灵身份。或许也是因为这身份也并非是天选罢。*
@@ -170,7 +172,3 @@
 ## 资料附注
 
 全文由「三金羊Sheep」撰写。
-
-# Dimote
-
-[https://dimote.top/](https://dimote.top/) > [主页](../../index.md) > [人物志主页](index.md) > 洛青羽
