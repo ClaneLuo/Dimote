@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../index.md) >> [见闻录主页](index.md)
+**[Dimote](https://dimote.top)** >> [见闻录主页](index.md)
 
 # 见闻录
 

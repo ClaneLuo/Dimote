@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](index.md) >> [开发笔记](note.md)
+**[Dimote](https://dimote.top)** >> [开发笔记](note.md)
 
 # 开发笔记
 

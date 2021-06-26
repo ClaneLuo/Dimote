@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [混沌](hundun.md)
+**[Dimote](https://dimote.top)** >> [大陆志主页](index.md) >> [混沌](hundun.md)
 
 # 大陆志 / 混沌
 

@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../../index.md) >> [人物志主页](../index.md) >> [诸神志主页](index.md)
+**[Dimote](https://dimote.top)** >> [人物志主页](../index.md) >> [诸神志主页](index.md)
 
 # 诸神志
 

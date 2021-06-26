@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../index.md) >> [人物志主页](index.md) >> [林墨](linmo.md)
+**[Dimote](https://dimote.top)** >> [人物志主页](index.md) >> [林墨](linmo.md)
 
 # 泉星 / 林墨
 

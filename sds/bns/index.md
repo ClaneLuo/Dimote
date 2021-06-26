@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../index.md) >> [编年史主页](index.md)
+**[Dimote](https://dimote.top)** >> [编年史主页](index.md)
 
 # 编年史
 
