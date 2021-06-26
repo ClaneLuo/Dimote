@@ -20,13 +20,8 @@
 
 - 人物志
     - [神档所 / 洛青羽](luoqingyu.md)
-    -
-    -
+    - [泉星 / 林墨](linmo.md) `正在撰写`
+    - [紫都 / 秋烨](qiuye.md)
 - [诸神志](zsz/index.md)
     - [启示之神 / 洛青羽](zsz/luoqingyu.md)
     - [冒险之神 / 瑞斯克](zsz/ruisike.md)
-
-## 开发中目录
-
-- [林墨](linmo.md)
-- [秋烨](qiuye.md)
