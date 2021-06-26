@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页]() >> [效果](xiaoguo.md)
+**[Dimote](https://dimote.top)** >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [效果](xiaoguo.md)
 
 # 大陆志 / 效果
 

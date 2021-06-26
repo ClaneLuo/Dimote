@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [大陆志主页]() >> [银狼](yinlang.md)
+**[Dimote](https://dimote.top)** >> [主页](../../../index.md) >> [大陆志主页](index.md) >> [银狼](yinlang.md)
 
 # 大陆志 / 银狼
 

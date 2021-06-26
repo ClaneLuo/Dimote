@@ -1,4 +1,4 @@
-<u><font color="#4080C0">Dimote</font></u> >> [主页](../../../) >> [人物志主页](../) >> [诸神志主页](index.md)
+**[Dimote](https://dimote.top)** >> [主页](../../../index.md) >> [人物志主页](../index.md) >> [诸神志主页](index.md)
 
 # 诸神志
 
