@@ -54,7 +54,7 @@
 
 设定图：
 
-![北亭设定图](../../resource/image/beiting.jpg)
+![北亭设定图](../../resource/image/beiting.png)
 
 ### 喜恶
 
