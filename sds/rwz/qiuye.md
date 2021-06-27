@@ -56,9 +56,9 @@
 
 设定图：
 
-![秋烨设定图1](../../image/qiuye_1.jpg)
+![秋烨设定图1](../../resource/image/qiuye_1.jpg)
 
-![秋烨设定图2](../../image/qiuye_2.jpg)
+![秋烨设定图2](../../resource/image/qiuye_2.jpg)
 
 ### 喜恶
 

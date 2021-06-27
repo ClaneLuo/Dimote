@@ -50,7 +50,7 @@
 ### 外貌
 
 第二形态设定图：
-![林墨(2)](../../image/linmo_man.jpg/)
+![林墨(2)](../../resource/image/linmo_man.jpg/)
 
 ### 喜恶
 
