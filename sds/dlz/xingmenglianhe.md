@@ -80,7 +80,7 @@
 
 下图是星梦徽章的草稿。
 
-![星梦徽章草稿](xingmenghuizhang_caogao.png)
+![星梦徽章草稿](../../resource/image/xingmenghuizhang_caogao.png)
 
 ### 获取方式
 
