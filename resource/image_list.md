@@ -9,3 +9,4 @@
 | ![qiuye_1.jpg](image/qiuye_1.jpg) | qiuye_1.jpg | JPG | 秋烨外貌图1 | 秋烨 |
 | ![qiuye_2.jpg](image/qiuye_2.jpg) | qiuye_2.jpg | JPG | 秋烨外貌图2 | 秋烨 |
 | ![beiting.png](image/beiting.png) | beiting.png | PNG | 北亭外貌图 | 秋烨 |
+| ![xingmenghuizhang_caogao.png](xingmenghuizhang_caogao.png) | xingmenghuizhang_caogao.png | PNG | 星梦徽章草稿 | 三金羊Sheep |
