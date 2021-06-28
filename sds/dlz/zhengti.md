@@ -28,7 +28,7 @@
 
 见《弗莱大地图》。
 
-![弗莱大地图（草稿）](../../image/flyland_map.png)
+![弗莱大地图（草稿）](../../resource/image/flyland_map.png)
 
 ### 神档所
 
