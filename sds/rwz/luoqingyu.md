@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [洛青羽](luoqingyu.md)
+**[Dimote](https://dimote.top)** >> [人物志主页](index.md) >> [洛青羽](luoqingyu.md)
 
 # 神档所 / 洛青羽
 

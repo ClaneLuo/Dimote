@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [主页](../../index.md) >> [人物志主页](index.md) >> [秋烨](qiuye.md)
+**[Dimote](https://dimote.top)** >> [人物志主页](index.md) >> [秋烨](qiuye.md)
 
 # 神档所 / 秋烨
 
