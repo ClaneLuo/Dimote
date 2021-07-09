@@ -4,17 +4,27 @@
 
 三金羊Sheep的四年计划《异世奇缘》（*Dimote*）目前所包含的所有内容。
 
-## 文字内容目录
+这个网页尚在开发，目前仅供Dimote开发组人员阅读或向外共享。
 
-> 点击下方蓝字即可查看。
+## 星梦网
 
-- 神档所出版物
-    - [编年史](sds/bns/index.md)
-    - [大陆志](sds/dlz/index.md)
-    - [见闻录](sds/jwl/index.md)
-    - [人物志](sds/rwz/index.md)
-        - [诸神志](sds/rwz/zsz/index.md)
-- [开发笔记](note.md)
+> 神档所官方站点。点击下方蓝字即可查看。
+
+- 星梦百科
+    - [*历史集*词条](sdbk/lsj/index.md)
+        - [历史集 / 前史](sdbk/lsj/index.md#前史)
+        - [历史集 / 后史](sdbk/lsj/index.md#后史)
+        - [历史集 / 传记](sdbk/lsj/index.md#传记)
+    - [*大陆志*词条](sdbk/dlz/index.md)
+        - [大陆志 / 见闻](sdbk/dlz/index.md#见闻)
+        - [大陆志 / 物产](sdbk/dlz/index.md#物产)
+    - [*人物志*词条](sdbk/rwz/index.md)
+    - [*诸神志*词条](sdbk/zsz/index.md)
+    - [*星梦云耀*词条](sdbk/xmyy/index.md)
+- 星梦笔记 `仅星梦神档所可阅读`
+    - [开发笔记](note.md)
+
+### 常用站点
 
 ## 主剧情线大纲（序言）
 
