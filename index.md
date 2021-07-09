@@ -22,7 +22,7 @@
     - [*诸神志*词条](sdbk/zsz/index.md)
     - [*星梦云耀*词条](sdbk/xmyy/index.md)
 - 星梦笔记 `仅星梦神档所可阅读`
-    - [开发笔记](note.md)
+    - [开发笔记](sdnb/index.md)
 
 ### 常用站点
 
