@@ -16,18 +16,20 @@
 
 这些是属于大陆上每个人的馈赠。
 
+[查看大陆志全部关键词](dlz/wordlist.md)
+
 ### 见闻
 
-- [弗莱网](dlz/fulaiwang.md) - 关于万能虚拟平台。
-- [混沌](dlz/hundun.md) - 关于敌人。
-- [生命](dlz/shengming.md) - 关于生命。
-- [神说](dlz/shenshuo.md) - 关于神和神格力。
-- [星梦联合](dlz/xingmenglianhe.md) - 关于冒险者和人才的管理中心。
-- [银狼](dlz/yinlang.md)  - 关于曾经不属于弗莱的物种的信息。
-- [羽晶](dlz/yujing.md)  - 关于货币。
-- [语言](dlz/yuyan.md)  - 关于语言。
-- [战斗](dlz/zhandou.md)  - 关于战斗方式。
-- [政体](dlz/zhengti.md)   - 关于六国、神档所与六国协会。
+- [弗莱网](dlz/jw/fulaiwang.md) - 关于万能虚拟平台。
+- [混沌](dlz/jw/hundun.md) - 关于敌人。
+- [生命](dlz/jw/shengming.md) - 关于生命。
+- [神说](dlz/jw/shenshuo.md) - 关于神和神格力。
+- [星梦联合](dlz/jw/xingmenglianhe.md) - 关于冒险者和人才的管理中心。
+- [银狼](dlz/jw/yinlang.md)  - 关于曾经不属于弗莱的物种的信息。
+- [羽晶](dlz/jw/yujing.md)  - 关于货币。
+- [语言](dlz/jw/yuyan.md)  - 关于语言。
+- [战斗](dlz/jw/zhandou.md)  - 关于战斗方式。
+- [政体](dlz/jw/zhengti.md)   - 关于六国、神档所与六国协会。
 
 ### 物产
 
