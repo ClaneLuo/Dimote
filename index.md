@@ -12,7 +12,7 @@
 
 > *以下为星梦网神档所官方站点链接。*
 
-- 星梦百科
+- [星梦百科](sdbk/index.md)
     - [*大陆志*词条](sdbk/index.md#大陆志)
         - [大陆志 / 见闻](sdbk/index.md#见闻)
         - [大陆志 / 物产](sdbk/index.md#物产)
