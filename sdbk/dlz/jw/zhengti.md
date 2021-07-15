@@ -10,7 +10,7 @@
 
 关于组织辖区，见**轻羽大陆政区图**。
 
-![轻羽大陆政区图](../../../resource/image/flyland/map.png)
+![轻羽大陆政区图](../../../resource/image/flyland_map.png)
 
 ## 六国政府
 
