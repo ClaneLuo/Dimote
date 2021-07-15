@@ -1,6 +1,6 @@
-**[Dimote](https://dimote.top)** >> [大陆志主页](index.md) >> [羽晶](huobi.md)
+**[Dimote](https://dimote.top)** >> [星梦百科](../../index.md) >> [大陆志](../../index.md#大陆志) >> [见闻](../../index.md#见闻) >> [货币](huobi.md)
 
-# 大陆志 / 羽晶
+# 大陆志 / 货币
 
 > *货币可是经济流通的基础啊。*
 >

@@ -5,12 +5,12 @@
     - [ ] dlz
         - [ ] wordlist.md
         - [ ] jw
-            - [ ] hundun.md
+            - [X] hundun.md
             - [ ] shenming.md
             - [ ] shenshuo.md
             - [X] xingmengwang.md
             - [X] yujing.md
-            - [ ] yuyan.md
+            - [X] yuyan.md
             - [ ] zhandou.md
             - [X] zhengti.md
             - [ ] zhuangtai.md

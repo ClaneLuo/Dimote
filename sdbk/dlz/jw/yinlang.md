@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [大陆志主页](index.md) >> [银狼](yinlang.md)
+**[Dimote](https://dimote.top)** >> [星梦百科](../../index.md) >> [大陆志](../../index.md#大陆志) >> [见闻](../../index.md#见闻) >> [银狼](yinlang.md)
 
 # 大陆志 / 银狼
 

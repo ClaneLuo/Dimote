@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [大陆志主页](index.md) >> [战斗](zhandou.md)
+**[Dimote](https://dimote.top)** >> [星梦百科](../../index.md) >> [大陆志](../../index.md#大陆志) >> [见闻](../../index.md#见闻) >> [战斗](zhandou.md)
 
 # 大陆志 / 战斗
 

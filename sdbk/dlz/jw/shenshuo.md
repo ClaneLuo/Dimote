@@ -1,4 +1,4 @@
-**[Dimote](https://dimote.top)** >> [大陆志主页](index.md) >> [神说](shenshuo.md)
+**[Dimote](https://dimote.top)** >> [星梦百科](../../index.md) >> [大陆志](../../index.md#大陆志) >> [见闻](../../index.md#见闻) >> [神说](shenshuo.md)
 
 # 大陆志 / 神说
 
