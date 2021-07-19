@@ -6,14 +6,14 @@
         - [ ] wordlist.md
         - [ ] jw
             - [X] hundun.md
-            - [ ] shenming.md
-            - [ ] shenshuo.md
+            - [X] shengming.md
+            - [X] shenshuo.md
             - [X] xingmengwang.md
             - [X] yujing.md
             - [X] yuyan.md
             - [ ] zhandou.md
             - [X] zhengti.md
-            - [ ] zhuangtai.md
+            - [X] zhuangtai.md
         - [ ] wc
             - [ ] jingti.md
     - [ ] rwz
