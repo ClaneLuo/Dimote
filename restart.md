@@ -5,7 +5,7 @@
 - [ ] restart.md `重构信息页`
 - [ ] index.md `主页`
 - [ ] sdbk `星梦百科`
-    - [ ] index.md `星梦百科主页`
+    - [X] index.md `星梦百科主页`
     - [ ] dlz `星梦百科/大陆志`
         - [ ] wordlist.md `大陆志关键词列表`
         - [ ] jw `见闻`
