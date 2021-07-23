@@ -4,6 +4,10 @@
 
 > *星梦网神档所官方站点，反馈请联系神档所洛青羽([Gold_Sheep_3@163.com](Gold_Sheep_3@163.com))*
 
+<font size="2"> 星梦百科 / 目录 </font>
+
+[TOC]
+
 ## 大陆志
 
 轻羽大陆的知识并不神秘，人们已经探索出了大陆上许多的知识宝藏。
@@ -20,17 +24,15 @@
 
 ### 见闻
 
-- [混沌](dlz/jw/hundun.md) - 关于敌人。
-- [货币](dlz/jw/huobi.md)  - 关于货币。
+- [混沌](dlz/jw/hundun.md) - 关于大陆之外的敌人。
+- [货币](dlz/jw/huobi.md) - 关于羽晶和羽晶券。
+- [冒险](dlz/jw/maoxian.md) - 关于大陆上的冒险生涯。
 - [生命](dlz/jw/shengming.md) - 关于生命。
 - [神说](dlz/jw/shenshuo.md) - 关于神和神格力。
-- [星梦联合](dlz/jw/xingmenglianhe.md) - 关于冒险者和人才的管理中心。
 - [星梦网](dlz/jw/xingmengwang.md) - 关于万能虚拟平台。
-- [银狼](dlz/jw/yinlang.md)  - 关于曾经不属于弗莱的物种的信息。
-- [语言](dlz/jw/yuyan.md)  - 关于语言。
-- [战斗](dlz/jw/zhandou.md)  - 关于战斗方式。
-- [政体](dlz/jw/zhengti.md)   - 关于六国、神档所与六国协会。
-- [状态](dlz/jw/zhuangtai.md)   - 关于各种有益和有害的状态效果。
+- [语言](dlz/jw/yuyan.md) - 关于语言。
+- [政体](dlz/jw/zhengti.md) - 关于六国政府、星梦和圣羽协会。
+- [状态](dlz/jw/zhuangtai.md) - 关于各种有益和有害的状态效果。
 
 ### 物产
 
