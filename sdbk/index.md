@@ -44,7 +44,9 @@
 
 ### 物产
 
-[大陆志 / 物产]还是空的。
+[查看全部物产](dlz/wc/content.md)
+
+- [人物养成素材](dlz/wc/renwuyangchengsucai.md)
 
 ## 世史志
 

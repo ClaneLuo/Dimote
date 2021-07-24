@@ -18,8 +18,9 @@
             - [X] yuyan.md `语言`
             - [X] zhengti.md `政体`
             - [X] zhuangtai.md `状态`
-        - [ ] wc `物产`
-            - [ ] jingti.md `晶体`
+        - [X] wc `物产`
+            - [X] content.md `全部物产`
+            - [X] renwuyangchengsucai.md `人物养成素材`
     - [ ] rwz `人物志`
         - [ ] beiting.md `北亭`
         - [ ] jing.md `镜`
