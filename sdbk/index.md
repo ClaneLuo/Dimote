@@ -91,7 +91,7 @@
 人类，和银狼们。大陆感激你们。
 
 - 赤焰
-    - [赤焰 / 北亭](beiting.md) `正在撰写`
+    - [赤焰 / 北亭](rwz/beiting.md) `正在撰写`
 - 荣光
     - 暂无。
 - 羽落
@@ -99,17 +99,17 @@
 - 郁林
     - 暂无。
 - 泉星
-    - [泉星 / 林墨](linmo.md) `正在撰写`
+    - [泉星 / 林墨](rwz/linmo.md) `正在撰写`
 - 紫都
-    - [紫都 / 秋烨](qiuye.md)
+    - [紫都 / 秋烨](rwz/qiuye.md)
 - 星梦
-    - [星梦 / 洛青羽](luoqingyu.md)
-    - [星梦 / 镜](jing.md) `正在撰写`
+    - [星梦 / 洛青羽](rwz/luoqingyu.md)
+    - [星梦 / 镜](rwz/jing.md) `正在撰写`
 - 其他
     - 暂无。
 
 ### 诸神志
 
-- [启示之神 / 洛青羽](luoqingyu.md)
-    - 人物志词条：[神档所 / 洛青羽](../luoqingyu.md)
-- [冒险之神 / ](ruisike.md)
+- [启示之神 / 洛青羽](zsz/luoqingyu.md)
+    - 人物志词条：[神档所 / 洛青羽](rwz/luoqingyu.md)
+- [冒险之神 / ](zsz/ruisike.md)
