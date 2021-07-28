@@ -9,6 +9,7 @@
     - [ ] dlz `星梦百科/大陆志`
         - [ ] wordlist.md `大陆志关键词列表`
         - [ ] jw `见闻`
+            - [ ] dalu.md `大陆` `NEW`
             - [X] hundun.md `混沌`
             - [X] huobi.md `货币`
             - [ ] maoxian.md `冒险`
@@ -36,5 +37,7 @@
     - [ ] zsz `诸神志`
         - [ ] luoqingyu.md `洛青羽(启示神)`
         - [ ] ruisike.md `瑞斯克(神身份)`
-- [ ] sdnb `星梦笔记`
-    - [ ] index.md `星梦笔记主页`
+- [X] sdnb `星梦笔记`
+    - [X] design_note.md `星梦笔记主页`
+    - [X] template `模板`
+        - [X] sdbk.md `星梦百科页面模板`

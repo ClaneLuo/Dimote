@@ -1,6 +1,6 @@
-**[Dimote](https://dimote.top)** >> [开发笔记](note.md)
+**[Dimote](https://dimote.top)** >> [星梦笔记](design_note.md)
 
-# 开发笔记
+# 星梦笔记
 
 > *玩法和剧情开发的随笔记录。并不一定会这么做，但这是想法。*
 
