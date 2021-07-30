@@ -37,7 +37,7 @@
     - [ ] zsz `诸神志`
         - [ ] luoqingyu.md `洛青羽(启示神)`
         - [ ] ruisike.md `瑞斯克(神身份)`
-- [X] sdnb `星梦笔记`
-    - [X] design_note.md `星梦笔记主页`
-    - [X] template `模板`
-        - [X] sdbk.md `星梦百科页面模板`
+- sdnb `星梦笔记`
+    - design_note.md `星梦笔记主页`
+    - template `模板`
+        - sdbk.md `星梦百科页面模板`
